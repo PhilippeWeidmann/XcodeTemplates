@@ -8,7 +8,7 @@ extension View {
     }
 }
 
-struct ___FILEBASENAMEASIDENTIFIER___: View {
+struct ___FILEBASENAMEASIDENTIFIER___: ViewModifier {
     func body(content: Content) -> some View {
         content
     }
